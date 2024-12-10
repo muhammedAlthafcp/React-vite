@@ -9,7 +9,6 @@ const About = ()=>{
        <User name={"Althaf cp"}/>
        <UserClass/>
        </div>
-
     )
 
 }
