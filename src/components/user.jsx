@@ -1,8 +1,8 @@
 
-function user() {
+function user(props) {
   return (
     <div className="User">
-        <h3>Name : </h3>
+        <h3>Name : {props.name} </h3>
         <h4>Age :</h4>
         <h5>stark</h5>
       
@@ -11,3 +11,8 @@ function user() {
 }
 
 export default user
+
+
+
+
+
