@@ -8,6 +8,7 @@ function user(props) {
       
     </div>
   )
+  
 }
 export default user
 
