@@ -10,6 +10,5 @@ const About = ()=>{
        <UserClass/>
        </div>
     )
-
 }
 export default About
