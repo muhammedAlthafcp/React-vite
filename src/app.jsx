@@ -34,12 +34,9 @@ const AppRouter = createBrowserRouter([
         path:"/contact",
         element:<Contact/>
       } 
-
     ],
     errorElement:<Error/>
-  },
- 
-  
+  },444
 ])
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(<RouterProvider  router={AppRouter}/>);
