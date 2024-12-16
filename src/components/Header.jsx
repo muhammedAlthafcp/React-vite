@@ -10,11 +10,6 @@ const Header = () => {
     console.log("hellp");
     
   })
-
-
-
-
-  
   return (
     <header className="header">
       <div className="logo-container">
