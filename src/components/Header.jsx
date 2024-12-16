@@ -31,10 +31,6 @@ const Header = () => {
             }else if(loignReact=== "logout"){
               SetloginReact("login")
             }
-
-
-            
-          
           }}>{loignReact}</button>
         </ul>
       </nav>
