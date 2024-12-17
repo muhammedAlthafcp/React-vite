@@ -36,7 +36,6 @@ const AppRouter = createBrowserRouter([
         path:"/login",
         element:<login />
       } 
-
     ],
     errorElement:<Error/>
   },444
