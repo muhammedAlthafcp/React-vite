@@ -32,7 +32,11 @@ const AppRouter = createBrowserRouter([
       {
         path:"/contact",
         element:<Contact/>
+      },{
+        path:"/login",
+        element:<login />
       } 
+
     ],
     errorElement:<Error/>
   },444
