@@ -7,6 +7,4 @@ function contact() {
     </div>
   )
 }
-
-
 export default contact
