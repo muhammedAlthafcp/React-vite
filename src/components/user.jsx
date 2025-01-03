@@ -10,5 +10,4 @@ function user(props) {
   )
 }
 
-
 export default user
