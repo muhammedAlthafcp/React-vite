@@ -3,7 +3,6 @@ function user(props) {
   return (
 
 
-    
     <div className="User">
         <h3>Name : {props.name} </h3>
         <h4>Age :</h4>
