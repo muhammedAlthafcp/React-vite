@@ -1,7 +1,7 @@
  import React from "react"
  
  class UserClass extends React.Component{
-    render(){
+    render(){ 
         return (
             <div className="User">
                 <h3>Name : </h3>
