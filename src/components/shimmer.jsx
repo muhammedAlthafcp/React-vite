@@ -9,11 +9,6 @@ const ShimmerCard = () => {
       </div>
     );
   };
-  
 
-
-
-
-  
   export default ShimmerCard;
   
