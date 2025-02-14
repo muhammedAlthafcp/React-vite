@@ -8,11 +8,7 @@ const Header = () => {
 
   useEffect(()=>{
     console.log("hellp");
-    
   })
-
-
-
   return (
     <header className="header">
       <div className="logo-container">
