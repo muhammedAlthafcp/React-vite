@@ -5,6 +5,11 @@ function user(props) {
         <h3>Name : {props.name} </h3>
         <h4>Age :</h4>
         <h5>stark</h5> 
+
+
+
+
+        
     </div>
   )
 }
