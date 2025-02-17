@@ -1,7 +1,11 @@
 import restaurantData from "../utils/mockData";
 import RestaurantCard from "./RestaurantCart";
 import { useState, useEffect } from "react";
-import ShimmerCard from "./Shimmer";
+import ShimmerCard from "./Shimmer"
+
+
+
+
 
 const Body = () => {
   const [restaurants, setRestaurants] = useState(restaurantData); // State for restaurant data
