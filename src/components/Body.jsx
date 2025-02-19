@@ -5,8 +5,6 @@ import ShimmerCard from "./Shimmer";
 
 
 
-
-
 const Body = () => {
   const [restaurants, setRestaurants] = useState(restaurantData); // State for restaurant data
   const [searchText, setSearchText] = useState(""); // State for search input
